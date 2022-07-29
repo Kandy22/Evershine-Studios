@@ -1,5 +1,5 @@
 ---
-title: "Welcome to my blog"
+title: "Evershine"
 ---
 
-I'm glad you are here. I plan to talk about ...
+Come for the greed. Stay for the Revolution.
